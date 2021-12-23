@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=node.js&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Apollo GraphQL](https://img.shields.io/badge/ApolloGraphQL-311C87?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 </br>
 
 #### Visit Me ✨
