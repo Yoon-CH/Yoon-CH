@@ -1,7 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=300&section=header&text=ChangHyun%20Yoon&fontSize=90&fontColor=ffffff&animation=fadeIn)
-	
 #### Skills ✨
 	
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
