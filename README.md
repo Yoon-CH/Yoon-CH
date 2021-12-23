@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#1E90FF&height=300&section=header&text=ChangHyun%20Yoon&fontSize=90&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#2980b9&height=300&section=header&text=ChangHyun%20Yoon&fontSize=90&fontColor=ffffff&animation=fadeIn)
 	
 #### Skills ✨
 	
