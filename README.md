@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=ChangHyun%20Yoon&fontSize=90&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#1E90FF&height=300&section=header&text=ChangHyun%20Yoon&fontSize=90&fontColor=ffffff&animation=fadeIn)
 	
 #### Skills ✨
 	
@@ -17,6 +17,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:changh950@gmail.com)](mailto:changh950@gmail.com)
 </br>
 
-![Yoon-CH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-CH&theme=gruvbox&show_icons=true)
+![Yoon-CH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-CH&theme=blue&show_icons=true)
 
 <div/>
