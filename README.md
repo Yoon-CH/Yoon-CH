@@ -1,6 +1,7 @@
 <div align="center">
+ 
+## ✨ 동료와 함께 같은 방향을 바라보며 </br> 세상의 문제를 해결하는 과정이 즐겁습니다.
 
-#### Skills ✨
 ![React](https://img.shields.io/badge/React-13d6f4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-4092f7.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-6f7072.svg?style=for-the-badge&logo=Next.js&logoColor=white)
