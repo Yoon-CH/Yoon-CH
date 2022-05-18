@@ -14,5 +14,5 @@
 ![Styled-Components](https://img.shields.io/badge/Styled-Components-pink.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
 </br>
 </br>
-![Yoon-CH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-CH&theme=blue&show_icons=true)
+![Yoon-CH's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yoon-CH&theme=blue&show_icons=true)
 <div/>
