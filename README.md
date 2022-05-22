@@ -15,4 +15,11 @@
 </br>
 </br>
 ![Yoon-CH's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yoon-CH&theme=blue&show_icons=true)
+</br>
+</br>
+| Career |      Organization     |        Date       |           Details          |
+|:----:|:---------------------:|:-----------------:|:--------------------------:|
+|   💻  |    WeCode FullStack BootCamp   | 2021.08 ~ 2021.12 | Frontend Developer Course  |
+|   🎖  | Wanted Pre-Onboarding | 2022.01 ~ 2022.03 | Frontend Onboarding Course |
+|   👔  |       4DayWorks       |     2022.05 ~     |      Frontend Developer    |
 <div/>
