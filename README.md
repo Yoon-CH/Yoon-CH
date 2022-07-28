@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-bcb351.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </br>
 ![Scss](https://img.shields.io/badge/Scss-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled-Components-pink.svg?style=for-the-badge&logo=Styled-Components&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/StyledComponents-pink.svg?style=for-the-badge&logo=StyledComponents&logoColor=white)
 </br>
 </br>
 ![Yoon-CH's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yoon-CH&theme=blue&show_icons=true)
